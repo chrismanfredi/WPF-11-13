@@ -14,7 +14,7 @@ if (total < spendinglimit){
 }
 
 else{
-    console.log("You")
+    console.log("You can NOT")
 
 }
 
