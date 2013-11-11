@@ -8,6 +8,10 @@ var spendinglimit = prompt("How much money can you spend on food?");
 
 var total = FoodShopping[0] + FoodShopping[1] + FoodShopping[2] + FoodShopping[3];
 
+if (total < spendinglimit){
+    console.log("you can buy the food!")
+
+}
 
 
 
