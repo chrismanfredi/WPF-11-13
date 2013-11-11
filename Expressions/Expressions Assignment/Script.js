@@ -6,6 +6,10 @@ FoodShopping[3] = prompt ("Enter cost of the second food item");
 
 var spendinglimit = prompt("How much money can you spend on food?");
 
+var total = FoodShopping[0] + FoodShopping[1] + FoodShopping[2] + FoodShopping[3];
+
+
+
 
 
 
