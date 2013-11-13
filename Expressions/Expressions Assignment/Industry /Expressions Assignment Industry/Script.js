@@ -1,4 +1,4 @@
-var FoodShoppingarray = [];
+var FoodShoppingarray = []; // Created the variable FoodShoppingarray
 FoodShoppingarray[0] = prompt ("Enter the cost of the first food item");
 FoodShoppingarray[1] = prompt ("Enter the cost of the second food item");
 FoodShoppingarray[2] = prompt ("Enter the cost of the third food item");
