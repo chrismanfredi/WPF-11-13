@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76391c94-c3da-4274-a0ce-8c37bf270133" name="Default" comment="" />
-    <ignored path="Expressions Assignment Industry.iws" />
+    <list default="true" id="c10b9879-7311-4777-a5b7-c725a1bec595" name="Default" comment="" />
+    <ignored path="Expressions Assignment Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384202736839" ignored="false" />
-    <file path="/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384314382364" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Personal/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384202616073" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Wacky/Expressions Assignment Wacky/index.html" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384202736839" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Wacky/Expressions Assignment Wacky/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384314109702" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../WPF November /Expression Assignment Personal/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384217160404" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../WPF November /WPF Day 1/Day 3.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384331299310" ignored="false" />
+    <file path="/index.html" changelist="c10b9879-7311-4777-a5b7-c725a1bec595" time="1384202736839" ignored="false" />
+    <file path="/Script.js" changelist="c10b9879-7311-4777-a5b7-c725a1bec595" time="1384314382364" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../WPF November /Expression Assignment Personal/Script.js" changelist="c10b9879-7311-4777-a5b7-c725a1bec595" time="1384217160404" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Industry /Expressions Assignment Industry/Script.js" changelist="c10b9879-7311-4777-a5b7-c725a1bec595" time="1384314382755" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../WPF November /WPF Day 1/Day 3.js" changelist="c10b9879-7311-4777-a5b7-c725a1bec595" time="1384331299310" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,14 +24,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Expressions Assignment Industry" />
+    <favorites_list name="Expressions Assignment Wacky" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+            <state line="8" column="26" selection-start="122" selection-end="122" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
@@ -42,7 +40,7 @@
       <file leaf-file-name="Script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="113" selection-start="320" selection-end="320" vertical-scroll-proportion="0.094339624">
+            <state line="5" column="62" selection-start="220" selection-end="220" vertical-scroll-proportion="0.11792453">
               <folding />
             </state>
           </provider>
@@ -64,9 +62,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="73" />
-    <option name="width" value="1440" />
+    <option name="x" value="1" />
+    <option name="y" value="22" />
+    <option name="width" value="1437" />
     <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -95,37 +93,42 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions Assignment Industry" />
+              <option name="myItemId" value="Expressions Assignment Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions Assignment Industry" />
+              <option name="myItemId" value="Expressions Assignment Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions Assignment Industry" />
+              <option name="myItemId" value="Expressions Assignment Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="File.Encoding" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Wacky" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -148,20 +151,20 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76391c94-c3da-4274-a0ce-8c37bf270133" name="Default" comment="" />
-      <created>1384201003038</created>
-      <updated>1384201003038</updated>
+      <changelist id="c10b9879-7311-4777-a5b7-c725a1bec595" name="Default" comment="" />
+      <created>1384202662720</created>
+      <updated>1384202662720</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="73" width="1440" height="784" extended-state="1" />
+    <frame x="1" y="22" width="1437" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09809457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.097595476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -246,21 +249,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="2" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+        <state line="5" column="62" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+        <state line="8" column="26" selection-start="122" selection-end="122" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="113" selection-start="320" selection-end="320" vertical-scroll-proportion="0.094339624">
+        <state line="5" column="62" selection-start="220" selection-end="220" vertical-scroll-proportion="0.11792453">
           <folding />
         </state>
       </provider>
