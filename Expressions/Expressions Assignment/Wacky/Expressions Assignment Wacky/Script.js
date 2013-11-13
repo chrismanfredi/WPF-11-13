@@ -3,7 +3,7 @@ var speed = prompt("What speed will you be driving at?"); // Prompting the user 
 var time = speed * distance / 60; // Time = The speed the user is driving at Times the distance the user is traveling Divided by 60
 
 
-console.log("It will take you " + time + " Hour(s) to arrive");
+console.log("It will take you " + time + " Hour(s) to arrive"); // Console Log "Time"
 
 
 
