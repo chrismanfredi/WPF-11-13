@@ -8,7 +8,7 @@
     <file path="/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384314382364" ignored="false" />
     <file path="$PROJECT_DIR$/../../Personal/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384202616073" ignored="false" />
     <file path="$PROJECT_DIR$/../../Wacky/Expressions Assignment Wacky/index.html" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384202736839" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Wacky/Expressions Assignment Wacky/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384314109702" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Wacky/Expressions Assignment Wacky/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384369943552" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../WPF November /Expression Assignment Personal/Script.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384217160404" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../WPF November /WPF Day 1/Day 3.js" changelist="76391c94-c3da-4274-a0ce-8c37bf270133" time="1384331299310" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -156,7 +156,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="73" width="1440" height="784" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
