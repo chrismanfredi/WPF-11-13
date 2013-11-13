@@ -14,7 +14,7 @@ if (total < spendinglimit){
 }
 
 else if (total > spendinglimit){
-    console.log("You can NOT buy the food!")
+    console.log("You can NOT buy the food!") // This is a if else statement... If the total of the food is Greater than the spending limit you can NOT buy the food
 
 }
 
