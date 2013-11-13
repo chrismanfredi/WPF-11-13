@@ -6,7 +6,7 @@ FoodShoppingarray[3] = prompt ("Enter the cost of the forth food item"); // Prom
 
 var spendinglimit = prompt("How much money can you spend on food?"); // Prompting the user on how much they can spend on food
 
-var total = FoodShoppingarray[0] + FoodShoppingarray[1] + FoodShoppingarray[2] + FoodShoppingarray[3];
+var total = FoodShoppingarray[0] + FoodShoppingarray[1] + FoodShoppingarray[2] + FoodShoppingarray[3]; // Adding all the FoodShoppingarray's to get a total on the food
 
 if (total < spendinglimit){
     console.log("you can buy the food!")
