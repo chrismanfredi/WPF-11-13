@@ -5,7 +5,7 @@ var job = prompt("What is my job"); // prompt what is my job
 
 if (job ==null || job ==""){ // if the user doesnt put in a answer a box will pop up
 
-   alert("Alteast put something!");
+   alert("Alteast put something!"); // Alert pop up box
 }
 else if (job == myjob)
 {
