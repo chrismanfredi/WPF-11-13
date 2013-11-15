@@ -22,6 +22,8 @@ if (weight >= 200){
 }
 
 console.log(num);
+console.log(lbs);
+
 
 
 
