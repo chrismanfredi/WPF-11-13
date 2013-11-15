@@ -18,7 +18,7 @@ if (weight >= 200){ // if you are over the weight of 200 pounds you are too heav
     lbs = 'You are too heavy, Hit The Gym!'} // the var lbs is presenting you are too heavy, Hit The Gym!
 
 console.log(num); // console logging the variable num
-console.log(lbs);
+console.log(lbs); // console logging the variable lbs
 
 
 
