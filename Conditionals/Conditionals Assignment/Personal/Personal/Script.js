@@ -11,6 +11,9 @@ else if (job == myjob)
 {
       console.log("You guessed my job!");
 }
+else {
+    console.log("WRONGGGG!");
+}
 
 
 
