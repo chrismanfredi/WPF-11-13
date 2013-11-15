@@ -12,5 +12,10 @@ if (age >=18){
     num ='You are old enough!'
 }
 
+if (weight <= 200){
+
+    lbs = 'You are a good weight'
+}
+
 
 
