@@ -7,5 +7,10 @@ if(age <= 18){
 
     num ='You are under age!'
 }
+if (age >=18){
+
+    num ='You are old enough!'
+}
+
 
 
