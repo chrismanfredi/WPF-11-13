@@ -1,26 +1,17 @@
-// Conditionals Industry
+myjob = "web designer"; // Plugging in the answer to my favorite color
+var job = prompt("What is my job?"); // Asking user to guess a color
 
-// Can you get into the military
-
-var age = prompt("What is your age?"); // prompting the user there age
-var weight = prompt("What is your weight?"); // prompting the user there weight
-
-if(age <= 18){ // if you are under the age of 18 you are not allowed!
-
-    num ='You are under age!'} // the var num is presenting you are under age!
-if (age >=18){ // If you are above the age of 18 you are allowed
-
-    num ='You are old enough!'} // the var num is presenting you are old enough!
-
-if (weight <= 200){ // if you are under the weight of 200 pounds you are allowed!
-
-    lbs = 'You are a good weight'} // the var lbs is presenting you are a good weight
-if (weight >= 200){ // if you are over the weight of 200 pounds you are too heavy!
-
-    lbs = 'You are too heavy, Hit The Gym!'} // the var lbs is presenting you are too heavy, Hit The Gym!
-
-console.log(num); // console logging the variable num
-console.log(lbs); // console logging the variable lbs
+if (job ==null || job =="") // If user inputs nothing a message pops up
+{
+    alert("Atleast put something!"); // This is the message the user will see if they don't input anything
+}
+else if (job === myjob) // If the color guessed equals to my favorite color
+{
+    console.log("You guess my job!"); // Message sent if answered correctly
+}
+else {
+    console.log("WRONGGGG!"); // Message sent if answered wrongly
+}
 
 
 
