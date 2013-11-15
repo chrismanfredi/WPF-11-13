@@ -7,8 +7,9 @@ if (job ==null || job ==""){
 
    alert("Alteast put something!");
 }
-else if (job == myjob){
-
+else if (job == myjob)
+{
+      console.log("You guessed my job!");
 }
 
 
