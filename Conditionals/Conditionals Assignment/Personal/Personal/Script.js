@@ -7,6 +7,9 @@ if (job ==null || job ==""){
 
    alert("Alteast put something!");
 }
+else if (job == myjob){
+
+}
 
 
 
