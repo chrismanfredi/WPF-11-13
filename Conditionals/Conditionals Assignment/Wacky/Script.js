@@ -19,7 +19,7 @@ else{ // else
 
 }
 
-console.log(total);
+console.log(total); // Final console log
 
 
 
