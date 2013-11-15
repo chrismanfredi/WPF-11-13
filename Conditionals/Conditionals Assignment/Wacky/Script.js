@@ -10,7 +10,7 @@ var lamborghini = prompt ("Lamborghini Weight Ex. 3476"); // prompting the user 
 
 var total = bmw+volvo+lexus+lamborghini; // the math of the problem - adding all the cars weights together
 
-if (total > maxweight){
+if (total > maxweight){ // if the total of the cars is bigger then the max weight they wont fit
     //
    console.log("Your cars are too heavy for the truck!");
 }
