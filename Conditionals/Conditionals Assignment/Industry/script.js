@@ -21,5 +21,7 @@ if (weight >= 200){
     lbs = 'You are too heavy, Hit The Gym!'
 }
 
+console.log(num);
+
 
 
