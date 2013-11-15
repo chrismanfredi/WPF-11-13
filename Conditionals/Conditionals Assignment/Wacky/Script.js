@@ -2,7 +2,7 @@
 
 //Car Transporter
 
-var maxweight = 20000;
+var maxweight = 20000; //
 var bmw = prompt ("BMW Weight Ex. 3285");
 var volvo = prompt ("Volov Weight Ex. 3345");
 var lexus = prompt ("Lexus Weight Ex. 3456");
