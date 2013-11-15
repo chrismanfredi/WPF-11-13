@@ -15,7 +15,7 @@ if (weight <= 200){ // if you are under the weight of 200 pounds you are allowed
     lbs = 'You are a good weight'} // the var num is presenting you are a good weight
 if (weight >= 200){ // if you are over the weight of 200 pounds you are too heavy!
 
-    lbs = 'You are too heavy, Hit The Gym!'}
+    lbs = 'You are too heavy, Hit The Gym!'} // the var lbs is presenting you are too heavy, Hit The Gym!
 
 console.log(num);
 console.log(lbs);
