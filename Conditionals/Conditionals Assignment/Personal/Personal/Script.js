@@ -1,5 +1,7 @@
 // Conditionals personal
 
+// Can you guess my job?
+
 myjob = "web designer"; // This is the answer to the problem
 var job = prompt("What is my job"); // prompt what is my job
 
