@@ -16,6 +16,10 @@ if (weight <= 200){
 
     lbs = 'You are a good weight'
 }
+if (weight >= 200){
+
+    lbs = 'You are too heavy, Hit The Gym!'
+}
 
 
 
