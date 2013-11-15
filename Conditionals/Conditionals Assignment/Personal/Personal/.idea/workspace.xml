@@ -7,8 +7,8 @@
     <file path="/index.html" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384545424244" ignored="false" />
     <file path="/Script.js" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384545062256" ignored="false" />
     <file path="$PROJECT_DIR$/../../Industry/index.html" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384545431256" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Industry/script.js" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384546789312" ignored="false" />
-    <file path="/script.js" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384546202975" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Industry/script.js" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384546815223" ignored="false" />
+    <file path="/script.js" changelist="52b15de8-d4b7-48ff-b67c-2b6a5523ec91" time="1384546805974" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +154,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="95" y="22" width="1440" height="792" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
