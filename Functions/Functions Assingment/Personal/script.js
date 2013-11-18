@@ -5,3 +5,7 @@ var assignment2 = parseInt(prompt("Assignment 2 grade"));
 var assignment3 = parseInt(prompt("Assignment 3 grade"));
 var assignment4 = parseInt(prompt("Assignment 4 grade"));
 
+function gradeaverage(){
+
+}
+
