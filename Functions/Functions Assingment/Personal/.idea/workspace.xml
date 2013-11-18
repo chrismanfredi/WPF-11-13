@@ -4,6 +4,7 @@
     <list default="true" id="dd77fa3e-a311-4e84-bb90-2f535fddf898" name="Default" comment="" />
     <ignored path="Personal.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/index.html" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384789767362" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="6" column="18" selection-start="83" selection-end="83" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -35,7 +36,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.047468353">
               <folding />
             </state>
           </provider>
@@ -224,14 +225,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="6" column="18" selection-start="83" selection-end="83" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.047468353">
           <folding />
         </state>
       </provider>
