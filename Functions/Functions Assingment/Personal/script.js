@@ -8,7 +8,7 @@ var assignment4 = parseInt(prompt("Assignment 4 grade")); // create var assignme
 function gradeaverage(){ // function grade average
     var gradetotals=assignment1+assignment2+assignment3+assignment4; // variable grade totals and adding all the assignment grades
     return gradetotals/4
-}
+} // returning what the user put in for grade totals divided by 4 to find the average
 
 console.log(gradeaverage());
 
