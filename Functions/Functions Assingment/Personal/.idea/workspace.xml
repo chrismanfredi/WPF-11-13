@@ -5,8 +5,8 @@
     <ignored path="Personal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384789767362" ignored="false" />
-    <file path="/script.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384791256206" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../WPF November /WPF Day 1/last class.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384791267337" ignored="false" />
+    <file path="/script.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384791196075" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WPF November /WPF Day 1/last class.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384790889675" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="28" selection-start="406" selection-end="406" vertical-scroll-proportion="0.28125">
+            <state line="11" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="0.26107594">
               <folding />
             </state>
           </provider>
@@ -60,9 +60,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="788" />
+    <option name="x" value="38" />
+    <option name="y" value="420" />
+    <option name="width" value="1420" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -142,13 +143,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="788" extended-state="6" />
+    <frame x="38" y="420" width="1420" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24629499" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -233,7 +234,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="406" selection-end="406" vertical-scroll-proportion="0.28125">
+        <state line="11" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="0.26107594">
           <folding />
         </state>
       </provider>

@@ -10,5 +10,3 @@ function gradeaverage(){
     return gradetotals/4
 }
 
-console.log(gradeaverage());
-
