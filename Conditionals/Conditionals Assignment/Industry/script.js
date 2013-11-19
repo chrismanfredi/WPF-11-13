@@ -3,7 +3,7 @@
 var age = prompt("What is your age?"); // prompting the user there age
 var weight = prompt("What is your weight?"); // prompting the user there weight
 
-if(age <= 18){ // if you are under the age of 18 you are not allowed!
+if(age <= 18){
 
     num ='You are under age!'
 }
