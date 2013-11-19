@@ -5,7 +5,7 @@
     <ignored path="Personal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384789767362" ignored="false" />
-    <file path="/script.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384791111920" ignored="false" />
+    <file path="/script.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384791047706" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../WPF November /WPF Day 1/last class.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384790889675" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="68" selection-start="349" selection-end="349" vertical-scroll-proportion="0.18987341">
+            <state line="8" column="4" selection-start="281" selection-end="281" vertical-scroll-proportion="0.18987341">
               <folding />
             </state>
           </provider>
@@ -234,7 +234,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="68" selection-start="349" selection-end="349" vertical-scroll-proportion="0.18987341">
+        <state line="8" column="4" selection-start="281" selection-end="281" vertical-scroll-proportion="0.18987341">
           <folding />
         </state>
       </provider>
