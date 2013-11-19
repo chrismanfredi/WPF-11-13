@@ -14,7 +14,7 @@ if (total > maxweight){ // if the total of the cars is bigger then the max weigh
     //
    console.log("Your cars are too heavy for the truck!"); // console log
 }
-else{ // else
+else{
     console.log("Your cars can fit on the truck");
 
 }
