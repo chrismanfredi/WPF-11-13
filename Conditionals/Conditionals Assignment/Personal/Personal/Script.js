@@ -7,7 +7,7 @@ if (job ==null || job ==""){ // if the user doesnt put in a answer a box will po
 
    alert("Alteast put something!"); // Alert pop up box
 }
-else if (job == myjob) // if the answer is right the user will put web designer
+else if (job == myjob)
 {
       console.log("You guessed my job!");
 }
