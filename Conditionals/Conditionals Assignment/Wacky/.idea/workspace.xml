@@ -11,7 +11,6 @@
     <file path="/Functions.js" changelist="4d8967bd-99d0-4314-aef8-2372fbcb9822" time="1384529711454" ignored="false" />
     <file path="$PROJECT_DIR$/../Personal/Personal/index.html" changelist="4d8967bd-99d0-4314-aef8-2372fbcb9822" time="1384531224417" ignored="false" />
     <file path="$PROJECT_DIR$/../Personal/Personal/Script.js" changelist="4d8967bd-99d0-4314-aef8-2372fbcb9822" time="1384544667596" ignored="false" />
-    <file path="$PROJECT_DIR$/../Industry/script.js" changelist="4d8967bd-99d0-4314-aef8-2372fbcb9822" time="1384547742089" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +160,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="795" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
