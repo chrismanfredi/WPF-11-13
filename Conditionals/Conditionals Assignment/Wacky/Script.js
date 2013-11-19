@@ -8,7 +8,7 @@ var volvo = prompt ("Volvo Weight Ex. 3345"); // prompting the user to enter the
 var lexus = prompt ("Lexus Weight Ex. 3456"); // prompting the user to enter the Lexus weight
 var lamborghini = prompt ("Lamborghini Weight Ex. 3476"); // prompting the user to end the lamborghini weight
 
-var total = bmw+volvo+lexus+lamborghini; // Math of the problem, adding all the car weights
+var total = bmw + volvo + lexus + lamborghini; // Math of the problem, adding all the car weights
 
 if (total > maxweight){ // if the total weight of the cars is more then 20000
     //
