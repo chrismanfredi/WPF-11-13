@@ -1,4 +1,4 @@
-// Conditionals Industry
+// Conditionals personal
 
 // Can you get into the military
 
