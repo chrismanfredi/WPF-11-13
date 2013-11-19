@@ -10,5 +10,5 @@ function gradeaverage(){ // function grade average
     return gradetotals/4
 } // returning what the user put in for grade totals divided by 4 to find the average
 
-console.log(gradeaverage()); // console log grade average
+console.log(gradeaverage());
 
