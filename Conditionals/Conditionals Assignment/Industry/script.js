@@ -1,29 +1,18 @@
-// Conditionals personal
+// Conditionals Industry
 
-var age = prompt("What is your age?"); // prompting the user there age
-var weight = prompt("What is your weight?"); // prompting the user there weight
+// Can you guess my job?
 
-if(age <= 18){
+myjob = "web designer"; // This is the answer to the problem
+var job = prompt("What is my job"); // prompt what is my job
 
-    num ='You are under age!'
+if (job ==null || job ==""){ // if the user doesnt put in a answer a box will pop up
+
+    alert("Alteast put something!"); // Alert pop up box
 }
-if (age >=18){
-
-    num ='You are old enough!'
+else if (job == myjob) // if the answer is right the user will put web designer
+{
+    console.log("You guessed my job!"); // console log you guessed my job!
 }
-
-if (weight <= 200){
-
-    lbs = 'You are a good weight'
+else {
+    console.log("WRONGGGG!"); // console long WRONGGGG
 }
-if (weight >= 200){
-
-    lbs = 'You are too heavy, Hit The Gym!'
-}
-
-console.log(num);
-console.log(lbs);
-
-
-
-
