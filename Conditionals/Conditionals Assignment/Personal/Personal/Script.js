@@ -21,6 +21,6 @@ if (weight >= 200){ // if the user puts in weight over 200 pounds they are overw
     lbs = 'You are too heavy, Hit The Gym!'
 }
 
-console.log(num);
-console.log(lbs);
+console.log(num); // console log variable "num"
+console.log(lbs); // console log variable "lbs"
 
