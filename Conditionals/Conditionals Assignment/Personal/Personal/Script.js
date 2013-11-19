@@ -12,7 +12,7 @@ else if (job == myjob) // if the answer is right the user will put web designer
       console.log("You guessed my job!"); // console log you guessed my job!
 }
 else {
-    console.log("WRONGGGG!"); // console long WRONGGGG
+    console.log("WRONGGGG!");
 }
 
 
