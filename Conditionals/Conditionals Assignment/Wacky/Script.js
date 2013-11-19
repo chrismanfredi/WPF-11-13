@@ -19,7 +19,7 @@ else{ // or if the cars aren't too heavy
 
 }
 
-console.log(); // console log weight
+console.log(); // console log
 
 
 
