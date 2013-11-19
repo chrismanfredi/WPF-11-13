@@ -1,6 +1,6 @@
 // Conditionals personal
 
-myjob = "web designer"; // This is the answer to the problem
+myjob = "web designer";
 var job = prompt("What is my job");
 
 if (job ==null || job ==""){
