@@ -22,6 +22,11 @@ var added = gradeAverage(test1, test2, test3, test4);
 var testAmt = 4;
 var wholeaverage = divide(added, testAmt);
 
+if (wholeaverage < 70){
+
+    x = "You fail!"
+}
+
 
 
 
