@@ -12,3 +12,6 @@ function divide(a,b){
     return div;
 }
 
+var test1 = parseInt(prompt('Assignment grade 1'));
+var test2 = parseInt(prompt('Assignment grade 2'));
+
