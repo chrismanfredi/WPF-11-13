@@ -12,10 +12,10 @@ function divide(a,b){ // created function divide
     return div; // return variable div
 }
 
-var test1 = parseInt(prompt('Assignment grade 1'));
-var test2 = parseInt(prompt('Assignment grade 2'));
-var test3 = parseInt(prompt('Assignment grade 3'));
-var test4 = parseInt(prompt('Assignment grade 4'));
+var test1 = parseInt(prompt('Assignment grade 1')); // prompting the user to enter assignment grade 1
+var test2 = parseInt(prompt('Assignment grade 2')); // prompting the user to enter assignment grade 2
+var test3 = parseInt(prompt('Assignment grade 3')); // prompting the user to enter assignment grade 3
+var test4 = parseInt(prompt('Assignment grade 4')); // prompting the user to enter assignment grade 4
 
 var added = gradeAverage(test1, test2, test3, test4);
 
