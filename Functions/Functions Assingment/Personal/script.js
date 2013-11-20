@@ -1,4 +1,4 @@
-function gradeAverage(a,w,e,r){
+function gradeAverage(q,w,e,r){
 
     var gpa = q + w + e + r;
 
@@ -26,6 +26,10 @@ if (wholeaverage < 70){
 
     x = "You fail!"
 }
+else {x="you pass!"}
+
+console.log(wholeaverage);
+console.log(x);
 
 
 
