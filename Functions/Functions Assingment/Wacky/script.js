@@ -6,7 +6,7 @@ var currentyear= 2013; // the current year "2013"
 function agecheck(){ // function agecheck
     var age = currentyear-year; // variable age math of the problem current year - the year you were born
 
-    if(year==''){
+    if(year==''){ // if the user doesn't put in anything
         return 'Please enter the year you were born!'
     }else if(year>currentyear){
         return 'Please enter a year that is not in the future'
