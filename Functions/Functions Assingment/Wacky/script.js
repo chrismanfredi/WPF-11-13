@@ -1,6 +1,6 @@
 // Can you get into the club
 
-var year= prompt('Please enter the year you were born');
+var year= prompt('Please enter the year you were born'); // prompting the user to enter the year they were born
 var currentyear= 2013;
 
 function agecheck(){
