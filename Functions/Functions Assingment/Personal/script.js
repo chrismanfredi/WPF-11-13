@@ -17,3 +17,6 @@ var test2 = parseInt(prompt('Assignment grade 2'));
 var test3 = parseInt(prompt('Assignment grade 3'));
 var test4 = parseInt(prompt('Assignment grade 4'));
 
+var added = gradeAverage(test1, test2, test3, test4);
+
+
