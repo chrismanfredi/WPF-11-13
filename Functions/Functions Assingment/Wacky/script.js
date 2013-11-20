@@ -10,10 +10,10 @@ function agecheck(){ // function agecheck
         return 'Please enter the year you were born!'
     }else if(year>currentyear){ // if the year you were born is more then the current year
         return 'Please enter a year that is not in the future'
-    }else if(age<18){
+    }else if(age<18){ // if the age is less then 18
         return 'your current age is '+age+', Leave Now! the club is not for you'
-    }else{
+    }else{ // or if the age is more then 18
         return 'your current age is '+age+', Come right in! and have a good time'
     }
-} console.log(agecheck());
+} console.log(agecheck()); // console log age check
 
