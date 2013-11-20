@@ -1,15 +1,15 @@
-function gradeAverage(q,w,e,r){
+function gradeAverage(q,w,e,r){ // created function grade average
 
-    var gpa = q + w + e + r;
+    var gpa = q + w + e + r; // created variable gpa and adding q w e r
 
-    return gpa;
+    return gpa; // return variable gpa
 }
 
-function divide(a,b){
+function divide(a,b){ // created function divide
 
-    var div = a / b;
+    var div = a / b; // created variable div and dividing a and b
 
-    return div;
+    return div; // return variable div
 }
 
 var test1 = parseInt(prompt('Assignment grade 1'));
