@@ -3,3 +3,9 @@
 var year= prompt('Please enter the year you were born');
 var currentyear= 2013;
 
+function agecheck(){
+    var age = curentyear-year;
+
+
+}
+
