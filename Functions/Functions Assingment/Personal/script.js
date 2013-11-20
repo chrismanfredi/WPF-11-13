@@ -19,4 +19,9 @@ var test4 = parseInt(prompt('Assignment grade 4'));
 
 var added = gradeAverage(test1, test2, test3, test4);
 
+var testAmt = 4;
+var wholeaverage = divide(added, testAmt);
+
+
+
 

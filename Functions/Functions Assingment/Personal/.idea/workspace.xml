@@ -5,7 +5,7 @@
     <ignored path="Personal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384872566765" ignored="false" />
-    <file path="/script.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384957408727" ignored="false" />
+    <file path="/script.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384957477737" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../WPF November /WPF Day 1/last class.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384801295977" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../WPF November /WPF Day 1/Day 4.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384806983374" ignored="false" />
     <file path="/Day 4.js" changelist="dd77fa3e-a311-4e84-bb90-2f535fddf898" time="1384804271985" ignored="false" />
@@ -49,7 +49,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.4784689">
+            <state line="24" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.57416266">
               <folding />
             </state>
           </provider>
@@ -252,7 +252,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.4784689">
+        <state line="24" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.57416266">
           <folding />
         </state>
       </provider>
