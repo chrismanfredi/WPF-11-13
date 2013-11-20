@@ -8,6 +8,8 @@ function agecheck(){
 
     if(year==''){
         return 'Please enter the year you were born!'
+    }else if(year>currentyear){
+        return 'Please enter a year that is not in the future'
     }
 
 
