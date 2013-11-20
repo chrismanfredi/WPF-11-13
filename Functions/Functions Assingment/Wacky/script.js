@@ -10,6 +10,8 @@ function agecheck(){
         return 'Please enter the year you were born!'
     }else if(year>currentyear){
         return 'Please enter a year that is not in the future'
+    }else if(age<18){
+        return 'your current age is '+age+', Leave Now! the club is not for you'
     }
 
 
