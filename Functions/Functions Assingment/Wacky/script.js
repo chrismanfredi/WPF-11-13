@@ -13,7 +13,7 @@ function agecheck(){
     }else if(age<18){
         return 'your current age is '+age+', Leave Now! the club is not for you'
     }else{
-        return 'your current age is '+age+',Come right in! and have a good time'
+        return 'your current age is '+age+', Come right in! and have a good time'
     }
 } console.log(agecheck());
 
