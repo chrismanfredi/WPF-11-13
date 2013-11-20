@@ -6,6 +6,10 @@ var currentyear= 2013;
 function agecheck(){
     var age = curentyear-year;
 
+    if(year==''){
+        return 'Please enter the year you were born!'
+    }
+
 
 }
 
