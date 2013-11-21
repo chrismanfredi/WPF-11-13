@@ -4,7 +4,7 @@ function grass(a,b,c){
     return grass1;
 }
 
-function industry(x,y){
+function landscape(x,y){
 
     var land1 = x * y;
 
@@ -23,6 +23,7 @@ var grasscall = grass(week1, week2, week3);
 var grassfinal = landscape(grasscall, perhouse);
 
 console.log(grassfinal);
+
 
 
 
