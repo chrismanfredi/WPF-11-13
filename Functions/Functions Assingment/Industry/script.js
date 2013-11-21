@@ -22,6 +22,9 @@ var grasscall = grass(week1, week2, week3);
 
 var grassfinal = landscape(grasscall, perhouse);
 
+console.log(grassfinal);
+
+
 
 
 
