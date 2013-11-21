@@ -16,5 +16,8 @@ function industry(x,y){
 var perhouse= prompt("Enter how much you make per house");
 var week1= prompt("Please enter how many hours you worked week 1");
 var week2= prompt("Please enter how many hours you worked week 2");
+var week3= prompt("Please enter how many hours you worked week 3");
+
+
 
 
