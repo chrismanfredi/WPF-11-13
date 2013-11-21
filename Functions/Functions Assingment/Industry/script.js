@@ -11,3 +11,6 @@ function industry(x,y){
     return land1;
 
 }
+
+
+var perhouse= prompt("Enter how much you make per house");
