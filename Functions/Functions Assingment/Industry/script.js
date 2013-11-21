@@ -1,7 +1,7 @@
-function grass(a,b,c){
+function grass(a,b,c){ // created function grass
 
-    var grass1 = a + b +c;
-    return grass1;
+    var grass1 = a + b +c; // created variable grass1
+    return grass1; // return grass1
 }
 
 function landscape(x,y){
