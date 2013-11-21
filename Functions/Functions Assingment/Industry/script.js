@@ -4,7 +4,7 @@ function grass(a,b,c){ // created function grass
     return grass1; // return grass1
 }
 
-function landscape(x,y){
+function landscape(x,y){ // created function landscape
 
     var land1 = x * y;
 
