@@ -6,9 +6,9 @@ function grass(a,b,c){ // created function grass
 
 function landscape(x,y){ // created function landscape
 
-    var land1 = x * y;
+    var land1 = x * y; // created variable land1
 
-    return land1;
+    return land1; // return land1
 
 }
 
