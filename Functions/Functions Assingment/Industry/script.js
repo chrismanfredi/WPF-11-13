@@ -18,6 +18,7 @@ var week1= prompt("Please enter how many hours you worked week 1");
 var week2= prompt("Please enter how many hours you worked week 2");
 var week3= prompt("Please enter how many hours you worked week 3");
 
+var grasscall = grass(week1, week2, week3);
 
 
 
