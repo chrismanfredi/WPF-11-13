@@ -13,7 +13,7 @@ function landscape(x,y){ // created function landscape
 }
 
 
-var perhouse= parseInt(prompt('Enter how much you make per house'));
+var perhouse= parseInt(prompt('Enter how much you make per house')); // varibale perhouse prompting the user to enter a value
 var week1= parseInt(prompt('Please enter how many hours you worked week 1'));
 var week2= parseInt(prompt('Please enter how many hours you worked week 2'));
 var week3= parseInt(prompt('Please enter how many hours you worked week 3'));
