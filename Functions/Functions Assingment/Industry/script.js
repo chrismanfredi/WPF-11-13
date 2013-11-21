@@ -18,13 +18,11 @@ var week1= parseInt(prompt('Please enter how many hours you worked week 1')); //
 var week2= parseInt(prompt('Please enter how many hours you worked week 2')); // variable week2 prompting the user to enter how much they worked
 var week3= parseInt(prompt('Please enter how many hours you worked week 3')); // variable week3 prompting the user to enter how much they worked
 
-var grasscall = grass(week1, week2, week3);
+var grasscall = grass(week1, week2, week3); // variable grasscall
 
-var grassfinal = landscape(grasscall, perhouse);
+var grassfinal = landscape(grasscall, perhouse); // variable grassfinal
 
-console.log(grassfinal);
-
-console.log("Over the 3 weeks you worked a total of " + grasscall + " hours, and made a total of " + grassfinal + " Dollars!");
+console.log("Over the 3 weeks you worked a total of " + grasscall + " hours, and made a total of " + grassfinal + " Dollars!"); // console log
 
 
 
